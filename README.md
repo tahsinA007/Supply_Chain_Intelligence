@@ -43,5 +43,16 @@ Generate Public App URL
         ->
 Live Streamlit Application
 
-
+## 🛠️ Tools & Technologies
+- **Language:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Techniques:** Anomaly Detection, K-Means Clustering, Regression, Classification, Feature Engineering
+- **Model Persistence:** Joblib
+- **Web Framework:** Streamlit
+- **Deployment:** Streamlit Community Cloud
+- **Development:** Jupyter Notebook
+- **Version Control:** Git, GitHub
+  
 🚀 **[Live Demo](https://supply-chain-risk-prediction.streamlit.app/)**
