@@ -47,12 +47,11 @@ Live Streamlit Application
 - **Language:** Python
 - **Data Analysis:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, XGBoost
-- **Techniques:** Anomaly Detection, K-Means Clustering, Regression, Classification, Feature Engineering
+- **Machine Learning:** Scikit-learn
 - **Model Persistence:** Joblib
 - **Web Framework:** Streamlit
 - **Deployment:** Streamlit Community Cloud
-- **Development:** Jupyter Notebook
+- **Development:** Kaggle Notebook
 - **Version Control:** Git, GitHub
   
 🚀 **[Live Demo](https://supply-chain-risk-prediction.streamlit.app/)**
