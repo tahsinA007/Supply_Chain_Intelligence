@@ -44,5 +44,4 @@ Checking new input data prediction
 🌐 Live Streamlit Application
 
 
-# 🚚 Supply Chain Intelligence
 🚀 **[Live Demo](https://supply-chain-risk-prediction.streamlit.app/)**
