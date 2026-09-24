@@ -1,5 +1,6 @@
 # Supply_Chain_Intelligence
-An end-to-end machine learning project for predicting inventory stockout risk and supporting supply chain decision-making.
+An end-to-end machine learning project for predicting inventory stockout risk and supporting supply chain decision-making. Hence it is predicting Estimated Delivery Time, Delivery status(early or late etc), Shipment Profile , grouping data points based on their density and identifies points in low-density regions as noise or potential anomalies
+
 To get full markdown & codes of kaggle notebook of this project, check out .ipynb file attached in the file section of this repo.
 
 **End to end data pipeline - - -**
