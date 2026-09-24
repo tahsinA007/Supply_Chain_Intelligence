@@ -26,22 +26,21 @@ DBSCAN for anomaly checking
 Checking new input data prediction
 
 **Deployment flow - - -**
-
-💻 Develop ML Pipeline
+Develop ML Pipeline
         ↓
-💾 Save Trained Model & Preprocessor
+Save Trained Model & Preprocessor
         ↓
-📁 Create Streamlit App
+Create Streamlit App
         ↓
-📦 Add requirements.txt
+Add requirements.txt
         ↓
-🐙 Push Project to GitHub
+Push Project to GitHub
         ↓
-☁️ Deploy on Streamlit Community Cloud
+Deploy on Streamlit Community Cloud
         ↓
-🔗 Generate Public App URL
+Generate Public App URL
         ↓
-🌐 Live Streamlit Application
+Live Streamlit Application
 
 
 🚀 **[Live Demo](https://supply-chain-risk-prediction.streamlit.app/)**
