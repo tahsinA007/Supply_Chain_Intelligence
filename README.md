@@ -42,3 +42,7 @@ Checking new input data prediction
 🔗 Generate Public App URL
         ↓
 🌐 Live Streamlit Application
+
+
+# 🚚 Supply Chain Intelligence
+🚀 **[Live Demo](https://supply-chain-risk-prediction.streamlit.app/)**
